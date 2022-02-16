@@ -26,8 +26,8 @@ git clone https://github.com/Gambit142/hello-world-react-ui.git
 and then run
 
 ```
-npm i
-npm start
+npm install
+npm start -p 3001
 ```
 
 ## Installation
@@ -38,7 +38,7 @@ to build a production version to `bulid` folder run
 npm run build
 ```
 
-## Authors
+## Author
 
 👨🏿 **Francis Ugorji**
 
